@@ -1,0 +1,13 @@
+.titolo-post{
+    color: orange;
+    font-family: sans-serif;
+}
+h1{
+    color:red;
+    font-family: sans-serif;
+}
+body{
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: 21px;
+}
