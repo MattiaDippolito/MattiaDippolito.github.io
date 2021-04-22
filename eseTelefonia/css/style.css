@@ -5,49 +5,23 @@
 body{
     background-color: red;
 }
-#offerta{
-    inline-size: auto;
-}
-.container {
-    clear: both;
-    width:100%;
-    margin-top: 2%;
-}
 #destra{
     float: right;
 }
 #sinistra{
     float: left;
 }
-#pubb_destra{
-    float: right;
-    text-align: center;
-    background-color: white;
-    margin-bottom: 1%;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 25%;
-    padding-bottom: 25%;
-}
-#pubb_sinistra{
-    float: left;
-    text-align: center;
-    background-color: white;
-    margin-bottom: 1%;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 25%;
-    padding-bottom: 25%;
-}
-.pubblicita{
-    font-size: 150%;
-}
-.allinea{
-    padding-top: 10%;
-    padding-bottom: 10%;
-    float: right;
-    margin-right: 20%;
-}
-.inserisci{
+.colonna{
     width: 100%;
+}
+#inserimento{
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
+    padding: 3%;
+    border: 2px solid black;
+}
+.centro{
+    width: 50%;
 }
