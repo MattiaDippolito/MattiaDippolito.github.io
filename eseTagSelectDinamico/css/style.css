@@ -1,0 +1,17 @@
+.colonna{
+    width: 800px;
+}
+#info{
+    text-align: right;
+    background-color: lightgreen;
+    border: solid 1px black;
+    padding: 2%;
+}
+#domande{
+    background-color: lightyellow;
+    border: solid 1px black;
+    padding: 2%;
+}
+body{
+    background-color: mediumturquoise;
+}
